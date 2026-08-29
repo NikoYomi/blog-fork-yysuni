@@ -33,7 +33,7 @@
 			"url": "/images/art/1c7b726fe720679b.jpg"
 		}
 	],
-	"currentArtImageId": "1c7b726fe720679b",
+	"currentArtImageId": "cat",
 	"backgroundImages": [
 		{
 			"id": "",
@@ -69,7 +69,7 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 22,
 	"hatFlipped": false,
 	"enableChristmas": false,
 	"beian": {
